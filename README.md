@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/milanoid/behave-playground.svg)](https://travis-ci.org/milanoid/behave-playground)
+
 # behave-playground
 What's all the buzz around BDD about?
 
